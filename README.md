@@ -22,14 +22,14 @@ debes realizar el programa en JavaScript, creando tres archivos, un archivo prin
 ![image](https://github.com/user-attachments/assets/dcf712c1-d13a-4a6e-b599-7a7807822b50)
 
 ## Requerimientos
-1. Mantén un estilo de código (espacios, saltos de línea, indentación) uniforme en el proyecto.
-2. Utilizar ES6 para el desarrollo de todo el programa. 
-~~3. Implementar las funcionalidades de Babel instalando las dependencias necesarias para su funcionamiento~~. 
-~~4. Crear y configurar el archivo de babel.config.json~~. 
-5. Crear los tres archivos de JavaScript e implementar la modularidad y clases de ES6. 
-6. Implementar getter y setter para acceder y/o modificar los datos de las clases. 
-7. Implementar un método que permita calcular el impuesto total a pagar por parte del cliente. 
-~~8. Transpilar el código de ES6 a ES5 utilizando babel desde la terminal~~. 
+1. Mantén un estilo de código (espacios, saltos de línea, indentación) uniforme en el proyecto. <br>
+2. Utilizar ES6 para el desarrollo de todo el programa.<br> 
+3. ~~Implementar las funcionalidades de Babel instalando las dependencias necesarias para su funcionamiento~~. <br>
+4. ~~Crear y configurar el archivo de babel.config.json~~. <br> 
+5. Crear los tres archivos de JavaScript e implementar la modularidad y clases de ES6. <br> 
+6. Implementar getter y setter para acceder y/o modificar los datos de las clases. <br> 
+7. Implementar un método que permita calcular el impuesto total a pagar por parte del cliente. <br> 
+8. ~~Transpilar el código de ES6 a ES5 utilizando babel desde la terminal~~. <br> 
 
 ## Tecnologías usadas
 
